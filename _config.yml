@@ -1,0 +1,21 @@
+title: Joel
+description: PhD student in ethical AI & alignment. Writing on coordination, values, and formal methods.
+baseurl: ""
+url: "https://yourusername.github.io"
+
+author:
+  name: Joel
+  email: your@email.com
+
+markdown: kramdown
+permalink: /writing/:year/:month/:day/:title/
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
