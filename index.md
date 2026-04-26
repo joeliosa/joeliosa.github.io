@@ -9,7 +9,11 @@ layout: default
   </figure>
 
   <div class="home-text">
-    <p>I'm working to build the infrastructure and tools that helps human systems, markets, and AI learn and act on what they actually value. See more in my <a href="#">white paper</a>.</p>
+    <p>I'm working to build the infrastructure and tools that helps human systems, markets, and AI learn and act on what they actually value. See more in my <a href="#">"white paper"</a>.</p>
+
+    <p>I'm currently also doing a PhD at IRIT/CNRS in logic and philosophy, specifically on how to formally distinguish between normative/ethical and more empirical knowledge. I'm trying to realize more practical applications of this work, which can also be seen in the above white paper. More information on my academic work is available in the Research/Writing section. </p>
+
+    <p>Some of my older, less-polished writing is available at Negative Spaces, if you feel so inclined to look :-) </p>
   </div>
 </div>
 
