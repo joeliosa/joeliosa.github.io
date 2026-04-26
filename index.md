@@ -2,36 +2,21 @@
 layout: default
 ---
 
-<div class="intro">
-  <p>I am a PhD student at <a href="https://www.irit.fr" target="_blank" rel="noopener">IRIT, Université de Toulouse</a>, working on ethical AI and alignment. My research sits at the intersection of formal methods, multi-agent systems, and the theory of responsibility.</p>
+<div class="home-columns">
+  <div class="home-text">
+    <p>I'm a PhD candidate in Logic at the <a href="https://www.irit.fr">IRIT</a> in Toulouse, supervised by <a href="#">Dr. Emiliano Lorini</a>. Working to build the infrastructure and tools that helps human systems, markets, and AI learn and act on what they actually value.</p>
 
-  <p>I am broadly interested in how formal tools — from game theory to PAC learning to mechanism design — can be made to bear on real problems in human coordination and institutional design. I think carefully about values: how to elicit them, represent them, and build systems that remain faithful to them at scale.</p>
+    <p>My research aims to ensure that intelligent systems are aligned with human intent and values, specifically through attempting to provide safety guarantees in multi-agent settings. My previous background is a mix of cognitive science, philosophy, and mathematical logic, which have accordingly caused me to take a more neurosymbolic approach.</p>
 
-  <p>I am moving to Graz, Austria in 2026.</p>
-</div>
+    <p>I wrote my <a href="#">masters thesis</a> on extended impossibility results about Solomonoff Induction. See my white paper for a more detailed statement about my work and its aims more generally, and my <a href="#">CV</a> for more formal qualifications.</p>
 
-<div class="home-section">
-  <h2>Recent writing</h2>
-  <ul class="post-list">
-    {% for post in site.posts limit:4 %}
-    <li class="post-item">
-      <span class="post-date">{{ post.date | date: "%Y-%m-%d" }}</span>
-      <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
-    </li>
-    {% endfor %}
-  </ul>
-</div>
+    <p>Outside of my academic work, I enjoy mixed martial arts and gardening. Indeed, I dream one day of running a self-sustaining farm community with my best friends, preferably somewhere in the foothills of the Alps.</p>
 
-<div class="home-section">
-  <h2>Current work</h2>
-  <ul class="paper-list">
-    <li class="paper-item">
-      <p class="paper-title">PAC Learnability of Responsibility Attribution in Boolean Games</p>
-      <p class="paper-meta">Working paper &mdash; 2026</p>
-      <p class="paper-abstract">We adapt PAC learning theory to formalize when responsibility notions over Boolean games are efficiently learnable, connecting causal attribution to sample complexity bounds.</p>
-      <div class="paper-links">
-        <a href="#">Draft coming soon</a>
-      </div>
-    </li>
-  </ul>
+    <p>I don't really maintain it anymore, but I have some older, philosophical essays on <a href="#">Negative Spaces.</a></p>
+  </div>
+
+  <figure class="home-image">
+    <img src="{{ '/assets/hero.png' | relative_url }}" alt="Newscientist Issue 3206 by Tishk Barzanji">
+    <figcaption>'Newscientist Issue 3206' by Tishk Barzanji</figcaption>
+  </figure>
 </div>
