@@ -13,7 +13,7 @@ layout: default
 
     <p>I'm also a PhD student in logic and philosophy at IRIT/CNRS, working on ways to formally distinguish between normative/ethical and empirical knowledge, and actively trying to realize more practical applications of this work (as also seen in the above white post).</p>
 
-    <p>Some of my older, less-polished writing is available on Negative Spaces, should you feel inclined to look :-)</p>
+    <p>Some of my older, less-polished writing is available on Negative Spaces<a href="https://nspaces.blogspot.com/" target="_blank">here</a>, should you feel inclined to look :-)</p>
   </div>
 </div>
 
