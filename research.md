@@ -8,5 +8,4 @@ title: Research
 
 <p>Coming soon.</p>
 
-</ul>
 </main>
