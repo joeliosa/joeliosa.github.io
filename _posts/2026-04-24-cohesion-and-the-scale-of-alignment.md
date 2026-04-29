@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Cohesion and the Scale of Alignment"
-date: 2026-04-24
+title: "Scales of Alignment"
+date: 2026-04-29
 ---
 
 From having circled around them during the past few years, I feel that AI ethics, safety, and alignment — this whole collection of related fields — proceed, in great part, from the particular assumption that human values exist in some sufficiently coherent and recoverable form, and that the central problem is one of representing those values precisely enough to train systems to pursue them reliably. That is, whether via reinforcement learning from human feedback (RLHF),<sup><a href="#ref1" id="back1">1</a></sup> debate, amplification, or formal verification, work on these topics aims broadly at addressing the question of "how we can get AI systems to do what we want?".
