@@ -11,6 +11,8 @@
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta property="og:image" content="{{ site.url }}{% if page.image %}{{ page.image }}{% else %}/assets/hero.png{% endif %}">
   <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+  <meta name="twitter:image" content="{{ site.url }}{% if page.image %}{{ page.image }}{% else %}/assets/hero.png{% endif %}">
+  <meta name="twitter:site" content="@failedarchitekt">
   <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
   {% feed_meta %}
   {% seo %}
