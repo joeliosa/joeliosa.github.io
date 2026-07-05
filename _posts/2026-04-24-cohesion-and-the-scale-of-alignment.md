@@ -5,12 +5,6 @@ date: 2026-07-06
 image: /assets/cohesionthumbnail.jpeg
 ---
 
----
-layout: post
-title: "Scales of Alignment"
-subtitle: "To build trustworthy AI, we must first figure out how to trust ourselves."
-date: 2026-07-05
----
 
 From having orbited them during the past few years, I feel that AI ethics, safety, and alignment — this whole collection of related fields — proceed, in great part, from the particular assumption that human values exist in some sufficiently coherent and recoverable form, and that the central problem is one of representing those values precisely enough to train AI systems to pursue them reliably. That is, whether via reinforcement learning from human feedback (RLHF)<sup id="fnref:1"><a href="#fn:1">1</a></sup>, debate, amplification, or formal verification, work on these topics aims broadly at addressing the question of how to get AI systems to do what we want.
 
