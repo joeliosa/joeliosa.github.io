@@ -9,7 +9,7 @@ layout: default
   </figure>
 
   <div class="home-text">
-    <p>I'm working to build the infrastructure and tools that helps human systems, markets, and AI learn and act on what they actually value. See more in my <a href="{% post_url 2026-07-05-scales-of-alignment %}">"white post"</a>.</p>
+    <p>I'm working to build the infrastructure and tools that helps human systems, markets, and AI learn and act on what they actually value. See more in my <a href="{% post_url 2026-07-05-scales-of-alignment %}">white post</a>.</p>
 
     <p>I'm also a PhD student in logic and philosophy at IRIT/CNRS, working on ways to formally distinguish between normative/ethical and empirical knowledge, and actively trying to realize more practical applications of this work (as also seen in the above white post).</p>
 
