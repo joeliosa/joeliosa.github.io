@@ -13,7 +13,7 @@ title: Research
 <ul class="paper-list">
 
   <li class="paper-item">
-    <p class="paper-title"><a href="https://failedarchitekt.substack.com/" target="_blank" rel="noopener">Failed Architect</a></p>
+    <p class="paper-title"><a href="https://failedarchitect.substack.com/" target="_blank" rel="noopener">Failed Architect</a></p>
     <p class="paper-meta">My Substack — freewheeling, yet more developed thoughts on a variety of topics.</p>
   </li>
 
